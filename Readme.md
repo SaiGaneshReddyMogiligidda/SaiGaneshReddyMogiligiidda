@@ -71,8 +71,9 @@ width="48" height="48" alt="Jenkins" />
 ---
 ### My GitHub Stats
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHubUsername]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub 
+ <img width="48%" src="https://github-readme-stats.vercel.app/apiusername=https://github.com/SaiGaneshReddyMogiligidda/SaiGaneshReddyMogiligiidda&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub 
 Stats" />
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHub-Username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/apiusername=https://github.com/SaiGaneshReddyMogiligidda/SaiGaneshReddyMogiligiidda&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 Step 5: Final
